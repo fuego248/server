@@ -117,3 +117,6 @@
 [01May2025 17:17:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fuego248: Successfully filled 3757 block(s)]
 [01May2025 17:17:16.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
 [01May2025 17:17:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fuego248 has made the advancement [Stone Age]
+[01May2025 17:46:43.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fuego248 lost connection: Disconnected
+[01May2025 17:46:43.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fuego248 left the game
+[01May2025 17:46:43.541] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
