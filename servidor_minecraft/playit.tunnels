@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "interest-stereo.gl.joinmc.link",
-          "assigned_srv": "interest-stereo.gl.joinmc.link",
+          "assigned_domain": "subjects-faced.gl.joinmc.link",
+          "assigned_srv": "subjects-faced.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6bef8356-948f-4146-9e1e-7e237a40ac97",
-          "ip_hostname": "27.ip.gl.ply.gg",
+          "id": "78c07921-d0d6-4aaf-804d-48201ace22b4",
+          "ip_hostname": "28.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 43339,
-          "port_start": 43338,
+          "port_end": 17837,
+          "port_start": 17836,
           "region": "global",
-          "static_ip4": "147.185.221.27",
-          "static_ip6": "2602:fbaf:0:1::1b",
-          "tunnel_ip": "2602:fbaf:0:1::1b"
+          "static_ip4": "147.185.221.28",
+          "static_ip6": "2602:fbaf:0:1::1c",
+          "tunnel_ip": "2602:fbaf:0:1::1c"
         },
         "status": "allocated"
       },
-      "created_at": "2025-05-01T17:08:26.408398Z",
+      "created_at": "2025-05-04T19:18:51.628114Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "753e4edc-9fa6-4cf6-84d1-08828bf25b11",
+      "id": "0596d1f4-7581-4a61-a4e6-dc21dcfabfba",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "79d26333-20b3-46f2-bfea-ea64d165f52d",
-          "agent_name": "los pelos de mi culo",
+          "agent_id": "5bcf8ec0-85d3-421e-8e71-4055bf16c556",
+          "agent_name": "from-key-640a",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
